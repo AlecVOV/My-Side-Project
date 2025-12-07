@@ -1,6 +1,4 @@
-Collecting workspace informationBased on your workspace analysis of this tourism data project, here are the key learnings:
-
-## Data Analysis Skills
+# Data Analysis Skills
 
 1. **Exploratory Data Analysis (EDA)**
    - Loading and inspecting data using pandas
@@ -35,7 +33,7 @@ Collecting workspace informationBased on your workspace analysis of this tourism
    - Using statsmodels for more detailed statistical analysis
    - Comparing sklearn vs statsmodels approaches
 
-## Key Business Insights
+# Key Business Insights
 
 From the **strong correlation (0.90)** and **high R-squared (0.81)**, you can learn that:
 - Guest nights are a reliable predictor of tax revenue
