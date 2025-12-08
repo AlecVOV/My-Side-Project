@@ -1,0 +1,46 @@
+
+Final Regression Result (Model 3 - Final)
+=====================================================
+                             Dependent variable:     
+                        -----------------------------
+                                  log_price          
+                                 Final Model         
+-----------------------------------------------------
+green_coverage_ratio              -0.012***          
+                                   (0.002)           
+                                                     
+orientation_solar_score             0.410            
+                                   (0.212)           
+                                                     
+building_spacing_ratio            -1.154***          
+                                   (0.180)           
+                                                     
+has_green_view1                    0.077*            
+                                   (0.038)           
+                                                     
+has_wind_corridor1                0.129***           
+                                   (0.026)           
+                                                     
+apartment_area                     -0.0005           
+                                  (0.0005)           
+                                                     
+developer_tier2                    -0.272*           
+                                   (0.128)           
+                                                     
+developer_tier3                   -0.717***          
+                                   (0.139)           
+                                                     
+distance_to_center_km             -0.454***          
+                                   (0.084)           
+                                                     
+Constant                          7.313***           
+                                   (0.306)           
+                                                     
+-----------------------------------------------------
+Observations                         269             
+R2                                  0.786            
+Adjusted R2                         0.778            
+Residual Std. Error           0.150 (df = 259)       
+F Statistic               105.550*** (df = 9; 259)   
+=====================================================
+Note:                   *p<0.05; **p<0.01; ***p<0.001
